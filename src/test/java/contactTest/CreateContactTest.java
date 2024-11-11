@@ -11,5 +11,6 @@ public class CreateContactTest {
 	@Test
 	public void createWithContactNo() {
 		System.out.println("create contact with no123654");
+		System.out.println("12369");
 	}
 }
